@@ -91,10 +91,10 @@
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pullock4981&layout=compact&theme=github_dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faysalahmed915&layout=compact&theme=github_dark" />
 
 <br />
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pullock4981" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=faysalahmed915" alt="Trophies" />
 </a>
