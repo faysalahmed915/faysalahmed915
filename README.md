@@ -87,7 +87,7 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pullock4981&show_icons=true&theme=github_dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=faysalahmed915&show_icons=true&theme=github_dark" />
 
 <br />
 
