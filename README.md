@@ -10,7 +10,7 @@
 
 ---
 <!-- Banner Image -->
-<img src="https://i.ibb.co/jvkjMHMb/Whats-App-Image-2025-06-25-at-3-02-32-PM.jpg" alt="Banner" width="100%" />
+<img src="https://i.ibb.co/W4rq7BRj/Whats-App-Image-2025-06-25-at-3-02-32-PM.jpg" alt="Banner" width="100%" />
 
 <h2>🧑‍💻 About Me</h2>
 <p>
