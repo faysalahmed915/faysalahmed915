@@ -77,10 +77,8 @@
 
 <h2>🌐 Connect with Me</h2>
 <p>
-  <a href="https://www.linkedin.com/in/ashikpullock/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.facebook.com/mahmudashik.pullock" target="_blank">
+  
+  <a href="https://www.facebook.com/share/16VzaFsu9N/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-0866ff?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
