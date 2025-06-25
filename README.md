@@ -1,11 +1,11 @@
 
-<h1 align="center">Hi 👋, I'm Syed Ashik Mahmud Pullock</h1>
+<h1 align="center">Hi 👋, I'm Faysal Ahmed</h1>
 
 <h3 align="center">MREN Stack Developer | Learner | Tech Enthusiast</h3>
 
 <!-- Location and Email -->
 <p align="center">
-  📍 Dhaka, Bangladesh &nbsp;&nbsp; | &nbsp;&nbsp; 📧 ashikpullock99@gmail.com
+  📍 Dhaka, Bangladesh &nbsp;&nbsp; | &nbsp;&nbsp; 📧 faysalahmed915@gmail.com
 </p>
 
 ---
@@ -14,7 +14,7 @@
 
 <h2>🧑‍💻 About Me</h2>
 <p>
-  I'm a dedicated MERN stack developer with a strong passion for creating dynamic, responsive, and scalable web applications. With expertise in MongoDB, Express.js, React, and Node.js, I enjoy building robust backends and seamless user interfaces. I take pride in writing clean, maintainable code and transforming complex requirements into intuitive digital experiences that are both functional and user-focused.
+  I'm a passionate MERN stack developer with a background in Electrical and Electronic Engineering (EEE). I bring a strong analytical mindset and problem-solving skills to web development, specializing in building modern, responsive, and scalable applications using MongoDB, Express.js, React, and Node.js. I thrive on turning complex ideas into clean, user-friendly digital solutions, with a focus on performance, usability, and maintainable code.
 </p>
 
 <h3>🔍 Current Focus</h3>
